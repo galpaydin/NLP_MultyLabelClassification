@@ -1,4 +1,7 @@
-# Natural Language Processing resources
+# Predict tags on StackOverflow with linear models¶
+
+jupynet notebook + python codes can be found under "codes" folder.
+Submitted repository contains all dependensies. All you need to install and run the code. You may read information regarding related libraries whic is given below.
 
 ## Running on Google Colab
 Google has released its own flavour of Jupyter called Colab, which has free GPUs!
